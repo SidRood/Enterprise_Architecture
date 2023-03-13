@@ -1,1 +1,2 @@
 # Enterprise_Architecture
+At Ottawa University, I created many diagrams and models throughout my course in Enterprise Architecture. This repository includes diagrams such as an ERP, ESA, SCM, CRM, SOA, and an SDLC. My selected company that I covered for all these projects was Royal Carribean Cruises. This knowledge has allowed me to dissect the many functions of a company and illustrate all the moving parts that go into running a business.
